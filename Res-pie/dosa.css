@@ -94,7 +94,7 @@
     display: flex;
     align-items:center;
     justify-content: flex-start;
-    height: 4700px;
+    height: 5000px;
 }
 .empty{
     height: 60px;
@@ -138,7 +138,7 @@
     border-radius: 5%;
     position: absolute;
     top: 400px;
-    height: 4280px;
+    height: 4680px;
     width:100%;
     background-color: #f8e4b3;
     
@@ -259,4 +259,7 @@ ul a{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+iframe{
+    margin-left:30%
 }
